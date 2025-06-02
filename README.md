@@ -21,7 +21,7 @@ I'm an aspiring IT specialist with one year of hands-on experience at **INSIDE**
 
 ## 📫 How to reach me:
 - GitHub: [@google-icl](https://github.com/google-icl)
-- Email: *your.email@example.com* (replace with actual email or preferred contact method)
+- Email: *google.icl@outlook.com* (replace with actual email or preferred contact method)
 
 ## 😄 Pronouns:
 He/Him (or update as preferred)
