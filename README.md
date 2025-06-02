@@ -24,7 +24,7 @@ I'm an aspiring IT specialist with one year of hands-on experience at **INSIDE**
 - Email: *google.icl@outlook.com* (replace with actual email or preferred contact method)
 
 ## 😄 Pronouns:
-He/Him (or update as preferred)
+He/Him
 
 ## ⚡ Fun fact:
 I’m always up for a technical challenge—and I enjoy optimizing game servers just as much as optimizing code.
